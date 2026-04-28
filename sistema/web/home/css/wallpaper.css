@@ -1,0 +1,6 @@
+html { height: 100%; overflow:hidden;}
+body { background-color: transparent; margin: 0px; padding: 0px; height: 100%; border-top: 1px transparent solid; margin-top: -1px; z-index:0; position:relative; }
+img#background { height: 100%; width: 100%; z-index: -1; position:absolute; color: white; }
+
+#content { font-family: Tahoma, Arial, sans-serif; font-size: 12px; margin-top: 30%; margin-left: 10%; padding: 10px; width: 40%; height: 20%; overflow: auto; background-image: url(images/transparent.png); }
+h1 { color: maroon; font-size: 14px; }

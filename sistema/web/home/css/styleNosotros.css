@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+div {
+	overflow: auto;
+	box-sizing: border-box;
+}
+
+div#container {
+	width: 100%;
+	height: auto;
+}
+div.seccion {
+	width: 98%;
+	height: auto;
+	border-bottom: dashed 2px white;
+	border-radius: 10px;
+}
+
+img#logo {
+	width: 150px;
+	height: 150px;
+	transition: all 2s;
+}
+
+img#logo:hover {
+	border-radius: 50%;
+	transition: all 1.5s;
+	background-color: lightgrey;
+}
+body {
+	background-image: url(../img/sismofondo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+h1.titular {
+	color: floralwhite;
+	font-family: Cambria, Hoefler Serif, Liberation Serif, Times, Times New Roman, Text;
+	font-style: italic;
+}
+ul li{
+	color: white;
+	font-size: 150%;
+	list-style: none;
+}
+ul {
+	text-decoration: none;
+}
+
+p#acercaD {
+	color: white;
+	width: 98%;
+	height: auto;
+	margin: auto 1%;
+}

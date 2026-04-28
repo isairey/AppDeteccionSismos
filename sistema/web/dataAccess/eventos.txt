@@ -1,0 +1,96 @@
+Sismo #0;El sismo fue de: 3.5 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 10.49 Km. el dia 2017/09/05 07:12:35;0.6015;-80.1144
+Sismo #1;El sismo fue de: 3.7 grados en la escala de Richter en  Jama,Manabi a una profundidad de 63.2 Km. el dia 2017/09/05 06:09:46;-0.099;-80.8223
+Sismo #2;El sismo fue de: 3 grados en la escala de Richter en  Atacames,Esmeraldas a una profundidad de 21.62 Km. el dia 2017/09/04 17:12:23;1.0305;-79.9531
+Sismo #3;El sismo fue de: 3.6 grados en la escala de Richter en  Arenillas,El Oro a una profundidad de 24.51 Km. el dia 2017/09/04 13:07:50;-3.7428;-79.9481
+Sismo #4;El sismo fue de: 3.6 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 19.85 Km. el dia 2017/09/03 20:26:05;0.6106;-80.1991
+Sismo #5;El sismo fue de: 3.7 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 27.92 Km. el dia 2017/09/03 15:38:53;0.5937;-80.271
+Sismo #6;El sismo fue de: 4.3 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 17.21 Km. el dia 2017/09/03 00:27:52;0.5774;-80.1716
+Sismo #7;El sismo fue de: 4.4 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 32.06 Km. el dia 2017/09/03 00:26:40;0.7258;-80.2853
+Sismo #8;El sismo fue de: 3.8 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 31.89 Km. el dia 2017/09/02 23:53:07;0.7282;-80.2826
+Sismo #9;El sismo fue de: 2.9 grados en la escala de Richter en  Esmeraldas,Esmeraldas a una profundidad de 16.25 Km. el dia 2017/09/01 04:38:52;1.0169;-79.514
+Sismo #10;El sismo fue de: 3.6 grados en la escala de Richter en  Shushufindi,Sucumbios a una profundidad de 40.05 Km. el dia 2017/08/28 06:16:38;0.053;-77.4162
+Sismo #11;El sismo fue de: 4.1 grados en la escala de Richter en  San Lorenzo,Esmeraldas a una profundidad de 13.9 Km. el dia 2017/08/24 10:48:54;1.3418;-78.742
+Sismo #12;El sismo fue de: 3.6 grados en la escala de Richter en  Guaranda,Bolivar a una profundidad de 26.56 Km. el dia 2017/08/23 13:59:24;-1.3596;-78.9387
+Sismo #13;El sismo fue de: 3.1 grados en la escala de Richter en  Atacames,Esmeraldas a una profundidad de 24.1 Km. el dia 2017/08/22 01:27:06;1.0636;-79.9397
+Sismo #14;El sismo fue de: 3.7 grados en la escala de Richter en  Rocafuerte,Manabi a una profundidad de 10.6 Km. el dia 2017/08/20 18:00:18;-0.9865;-80.3804
+Sismo #15;El sismo fue de: 3.9 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 134.74 Km. el dia 2017/08/15 17:34:23;-2.5592;-76.9296
+Sismo #16;El sismo fue de: 4.2 grados en la escala de Richter en  Cuenca,Azuay a una profundidad de 8.03 Km. el dia 2017/08/14 22:15:04;-2.8744;-78.9384
+Sismo #17;El sismo fue de: 3.5 grados en la escala de Richter en  Puyo,Pastaza a una profundidad de 16.23 Km. el dia 2017/08/14 13:48:27;-1.6285;-77.9499
+Sismo #18;El sismo fue de: 3.5 grados en la escala de Richter en  Jama,Manabi a una profundidad de 47.43 Km. el dia 2017/08/13 23:09:27;-0.1933;-80.6898
+Sismo #19;El sismo fue de: 4.2 grados en la escala de Richter en  Jama,Manabi a una profundidad de 50.9 Km. el dia 2017/08/13 22:54:26;-0.1313;-80.7156
+Sismo #20;El sismo fue de: 3.7 grados en la escala de Richter en  Jama,Manabi a una profundidad de 57.53 Km. el dia 2017/08/13 22:49:34;-0.1417;-80.7772
+Sismo #21;El sismo fue de: 4.2 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 81.61 Km. el dia 2017/08/12 00:15:59;-2.1465;-77.3987
+Sismo #22;El sismo fue de: 4.4 grados en la escala de Richter en  Pedernales,Manabi a una profundidad de 25.46 Km. el dia 2017/08/10 00:55:01;0.2993;-80.0864
+Sismo #23;El sismo fue de: 2.8 grados en la escala de Richter en  Pelileo,Tungurahua a una profundidad de 5.65 Km. el dia 2017/08/09 23:28:00;-1.292;-78.5765
+Sismo #24;El sismo fue de: 3.3 grados en la escala de Richter en  Esmeraldas,Esmeraldas a una profundidad de 32.73 Km. el dia 2017/08/09 00:37:57;1.2587;-79.6984
+Sismo #25;El sismo fue de: 3.9 grados en la escala de Richter en  Esmeraldas,Esmeraldas a una profundidad de 31.7 Km. el dia 2017/08/02 19:48:51;1.2532;-79.6536
+Sismo #26;El sismo fue de: 3.7 grados en la escala de Richter en  Sto Domingo,Sto Dom Tsachilas a una profundidad de 38.27 Km. el dia 2017/08/02 00:40:18;-0.1931;-78.8364
+Sismo #27;El sismo fue de: 3.6 grados en la escala de Richter en  Cnel Marcelino Mariduena,Guayas a una profundidad de 7.91 Km. el dia 2017/08/01 01:35:46;-2.3114;-79.3807
+Sismo #28;El sismo fue de: 4.3 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 474.69 Km. el dia 2017/07/31 01:58:53;1.7391;-84.1376
+Sismo #29;El sismo fue de: 3.7 grados en la escala de Richter en  Quito,Pichincha a una profundidad de 39.07 Km. el dia 2017/07/30 18:30:50;-0.1889;-78.819
+Sismo #30;El sismo fue de: 3.8 grados en la escala de Richter en  Manta,Manabi a una profundidad de 73.56 Km. el dia 2017/07/28 05:30:04;-0.6098;-81.2651
+Sismo #31;El sismo fue de: 4.7 grados en la escala de Richter en  Calceta,Manabi a una profundidad de 13.2 Km. el dia 2017/07/26 19:59:22;-0.9231;-80.245
+Sismo #32;El sismo fue de: 3.3 grados en la escala de Richter en  Salcedo,Cotopaxi a una profundidad de 12.06 Km. el dia 2017/07/24 04:44:54;-0.9608;-78.5191
+Sismo #33;El sismo fue de: 4.3 grados en la escala de Richter en  Jama,Manabi a una profundidad de 48.3 Km. el dia 2017/07/24 00:28:11;-0.2395;-80.6961
+Sismo #34;El sismo fue de: 3.7 grados en la escala de Richter en  Jama,Manabi a una profundidad de 83.01 Km. el dia 2017/07/23 12:06:31;-0.1073;-81.0037
+Sismo #35;El sismo fue de: 4.3 grados en la escala de Richter en  Santa Rosa,El Oro a una profundidad de 7.07 Km. el dia 2017/07/20 14:30:04;-3.5177;-79.9416
+Sismo #36;El sismo fue de: 3.9 grados en la escala de Richter en  Rocafuerte,Manabi a una profundidad de 2.03 Km. el dia 2017/07/20 14:14:04;-0.9223;-80.4703
+Sismo #37;El sismo fue de: 4.3 grados en la escala de Richter en  Manta,Manabi a una profundidad de 518.26 Km. el dia 2017/07/19 01:15:30;0.9626;-84.9498
+Sismo #38;El sismo fue de: 3.6 grados en la escala de Richter en  Jama,Manabi a una profundidad de 103.53 Km. el dia 2017/07/16 23:09:05;0.3779;-80.9915
+Sismo #39;El sismo fue de: 4.1 grados en la escala de Richter en  Zamora,Zamora Ch a una profundidad de 1.68 Km. el dia 2017/07/15 22:27:49;-4.0763;-78.9538
+Sismo #40;El sismo fue de: 3.9 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 15.38 Km. el dia 2017/07/14 20:12:45;0.7268;-77.8697
+Sismo #41;El sismo fue de: 4.2 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 17.13 Km. el dia 2017/07/14 16:58:05;0.7462;-77.8568
+Sismo #42;El sismo fue de: 4.2 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 14.7 Km. el dia 2017/07/14 14:57:34;0.723;-77.8607
+Sismo #43;El sismo fue de: 4 grados en la escala de Richter en  Bahia de Caraquez,Manabi a una profundidad de 87.76 Km. el dia 2017/07/12 16:27:37;-0.2452;-81.1224
+Sismo #44;El sismo fue de: 3.8 grados en la escala de Richter en  Jama,Manabi a una profundidad de 82.84 Km. el dia 2017/07/12 14:59:00;-0.0246;-80.9868
+Sismo #45;El sismo fue de: 3.8 grados en la escala de Richter en  Paute,Azuay a una profundidad de 25.04 Km. el dia 2017/07/12 00:45:57;-2.6892;-78.5689
+Sismo #46;El sismo fue de: 5.5 grados en la escala de Richter en  Atacames,Esmeraldas a una profundidad de 16.25 Km. el dia 2017/07/11 12:09:15;0.7568;-79.7517
+Sismo #47;El sismo fue de: 4 grados en la escala de Richter en  Macara,Loja a una profundidad de 102.86 Km. el dia 2017/07/11 03:04:10;-4.6716;-80.815
+Sismo #48;El sismo fue de: 4.1 grados en la escala de Richter en  Cnel Marcelino Mariduena,Guayas a una profundidad de 7.29 Km. el dia 2017/07/10 18:48:57;-2.2915;-79.4479
+Sismo #49;El sismo fue de: 3.5 grados en la escala de Richter en  Arenillas,El Oro a una profundidad de 6.27 Km. el dia 2017/07/10 12:27:22;-3.6105;-80.0504
+Sismo #50;El sismo fue de: 4.2 grados en la escala de Richter en  Salinas,Sta Elena a una profundidad de 136.55 Km. el dia 2017/07/09 18:04:53;-2.9581;-81.943
+Sismo #51;El sismo fue de: 3.8 grados en la escala de Richter en  Montecristi,Manabi a una profundidad de 21.07 Km. el dia 2017/07/06 09:12:38;-1.1685;-80.803
+Sismo #52;El sismo fue de: 4.1 grados en la escala de Richter en  Bahia de Caraquez,Manabi a una profundidad de 86.4 Km. el dia 2017/07/06 04:49:40;-0.2757;-81.1243
+Sismo #53;El sismo fue de: 3.8 grados en la escala de Richter en  Jama,Manabi a una profundidad de 60.38 Km. el dia 2017/07/05 10:55:04;-0.0202;-80.775
+Sismo #54;El sismo fue de: 3.9 grados en la escala de Richter en  Huaquillas,El Oro a una profundidad de 36.6 Km. el dia 2017/07/03 06:11:00;-3.7583;-80.3925
+Sismo #55;El sismo fue de: 3.6 grados en la escala de Richter en  Jama,Manabi a una profundidad de 56.08 Km. el dia 2017/07/02 05:55:26;-0.2376;-80.7664
+Sismo #56;El sismo fue de: 4.5 grados en la escala de Richter en  Jama,Manabi a una profundidad de 82.22 Km. el dia 2017/07/01 23:16:32;-0.1301;-80.9992
+Sismo #57;El sismo fue de: 3.9 grados en la escala de Richter en  Bahia de Caraquez,Manabi a una profundidad de 57.25 Km. el dia 2017/07/01 18:10:56;-0.2687;-80.8048
+Sismo #58;El sismo fue de: 4.5 grados en la escala de Richter en  Jama,Manabi a una profundidad de 54.5 Km. el dia 2017/07/01 03:32:50;-0.1246;-80.7473
+Sismo #59;El sismo fue de: 3.6 grados en la escala de Richter en  Jama,Manabi a una profundidad de 82.92 Km. el dia 2017/07/01 01:07:40;-0.0581;-80.9949
+Sismo #60;El sismo fue de: 3.7 grados en la escala de Richter en  Jama,Manabi a una profundidad de 58.01 Km. el dia 2017/07/01 00:14:41;-0.1896;-80.7849
+Sismo #61;El sismo fue de: 3.6 grados en la escala de Richter en  Gualaceo,Azuay a una profundidad de 14.95 Km. el dia 2017/06/30 22:57:04;-2.9346;-78.6503
+Sismo #62;El sismo fue de: 3.9 grados en la escala de Richter en  Manta,Manabi a una profundidad de 73.2 Km. el dia 2017/06/30 22:55:21;-0.4341;-81.0942
+Sismo #63;El sismo fue de: 4.9 grados en la escala de Richter en  Jama,Manabi a una profundidad de 64.17 Km. el dia 2017/06/30 22:37:47;-0.1792;-80.8399
+Sismo #64;El sismo fue de: 6.3 grados en la escala de Richter en  Jama,Manabi a una profundidad de 65.65 Km. el dia 2017/06/30 22:29:40;-0.1456;-80.851
+Sismo #65;El sismo fue de: 4.1 grados en la escala de Richter en  Balao,Guayas a una profundidad de 35.37 Km. el dia 2017/06/30 15:38:44;-2.931;-80.0179
+Sismo #66;El sismo fue de: 4.1 grados en la escala de Richter en  Pedernales,Manabi a una profundidad de 34.52 Km. el dia 2017/06/30 13:22:26;0.1317;-80.3562
+Sismo #67;El sismo fue de: 4.6 grados en la escala de Richter en  Macara,Loja a una profundidad de 15.31 Km. el dia 2017/06/27 22:13:47;-4.2526;-79.9976
+Sismo #68;El sismo fue de: 3.6 grados en la escala de Richter en  Jama,Manabi a una profundidad de 24.55 Km. el dia 2017/06/27 17:22:57;-0.3316;-80.4421
+Sismo #69;El sismo fue de: 3.6 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 15.33 Km. el dia 2017/06/26 17:14:22;0.7273;-77.8663
+Sismo #70;El sismo fue de: 3.5 grados en la escala de Richter en  Tulcan,Carchi a una profundidad de 70.5 Km. el dia 2017/06/26 01:41:25;1.2724;-77.2777
+Sismo #71;El sismo fue de: 3.8 grados en la escala de Richter en  Pedro Carbo,Guayas a una profundidad de 18.69 Km. el dia 2017/06/23 19:55:16;-1.9528;-80.3404
+Sismo #72;El sismo fue de: 3.9 grados en la escala de Richter en  Sucua,Morona Stgo a una profundidad de 162.1 Km. el dia 2017/06/21 06:50:42;-3.4465;-77.0968
+Sismo #73;El sismo fue de: 3.7 grados en la escala de Richter en  Jama,Manabi a una profundidad de 29.92 Km. el dia 2017/06/20 17:05:06;0.0168;-80.42
+Sismo #74;El sismo fue de: 3.7 grados en la escala de Richter en  Naranjal,Guayas a una profundidad de 11.34 Km. el dia 2017/06/18 20:03:51;-2.678;-79.7238
+Sismo #75;El sismo fue de: 4 grados en la escala de Richter en  Esmeraldas,Esmeraldas a una profundidad de 6.93 Km. el dia 2017/06/16 18:12:38;0.9296;-79.7006
+Sismo #76;El sismo fue de: 3.5 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 59.43 Km. el dia 2017/06/15 15:07:26;-1.9467;-77.7198
+Sismo #77;El sismo fue de: 3.8 grados en la escala de Richter en  Pasaje,El Oro a una profundidad de 5.68 Km. el dia 2017/06/15 10:11:16;-3.3759;-79.7953
+Sismo #78;El sismo fue de: 3.3 grados en la escala de Richter en  Manta,Manabi a una profundidad de 3.09 Km. el dia 2017/06/14 03:43:48;-0.9552;-80.7337
+Sismo #79;El sismo fue de: 3.6 grados en la escala de Richter en  Montecristi,Manabi a una profundidad de 4.57 Km. el dia 2017/06/14 03:08:27;-1.0725;-80.6255
+Sismo #80;El sismo fue de: 4 grados en la escala de Richter en  Pedernales,Manabi a una profundidad de 36.77 Km. el dia 2017/06/12 14:30:32;0.3531;-80.2271
+Sismo #81;El sismo fue de: 3.9 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 71.75 Km. el dia 2017/06/11 19:08:55;0.478;-80.6518
+Sismo #82;El sismo fue de: 4.4 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 70.95 Km. el dia 2017/06/11 18:01:49;0.4745;-80.6436
+Sismo #83;El sismo fue de: 3.6 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 12.38 Km. el dia 2017/06/10 09:00:45;0.6657;-80.1179
+Sismo #84;El sismo fue de: 4.7 grados en la escala de Richter en  Salinas,Sta Elena a una profundidad de 389.18 Km. el dia 2017/06/10 05:52:16;-4.4619;-83.6523
+Sismo #85;El sismo fue de: 3.5 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 10.43 Km. el dia 2017/06/09 17:00:00;0.5505;-79.9495
+Sismo #86;El sismo fue de: 3.9 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 4.77 Km. el dia 2017/06/09 09:06:49;0.6327;-80.058
+Sismo #87;El sismo fue de: 4.1 grados en la escala de Richter en  Macara,Loja a una profundidad de 70.07 Km. el dia 2017/06/09 02:49:12;-4.208;-80.545
+Sismo #88;El sismo fue de: 3.7 grados en la escala de Richter en  Huaquillas,El Oro a una profundidad de 67.97 Km. el dia 2017/06/08 15:33:18;-3.4316;-80.8331
+Sismo #89;El sismo fue de: 3.8 grados en la escala de Richter en  Playas,Guayas a una profundidad de 24.87 Km. el dia 2017/06/08 10:14:20;-2.8406;-80.4602
+Sismo #90;El sismo fue de: 4.7 grados en la escala de Richter en  Macara,Loja a una profundidad de 71.15 Km. el dia 2017/06/08 04:27:39;-4.1442;-80.534
+Sismo #91;El sismo fue de: 3.7 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 26.03 Km. el dia 2017/06/08 02:43:57;0.6215;-80.2545
+Sismo #92;El sismo fue de: 3.5 grados en la escala de Richter en  Pedernales,Manabi a una profundidad de 30.54 Km. el dia 2017/06/08 02:14:29;0.313;-80.185
+Sismo #93;El sismo fue de: 3.6 grados en la escala de Richter en  Pajan,Manabi a una profundidad de 19.05 Km. el dia 2017/06/08 00:46:42;-1.4054;-80.3389
+Sismo #94;El sismo fue de: 3.6 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 5.26 Km. el dia 2017/06/07 20:17:28;0.6103;-80.0679
+Sismo #95;El sismo fue de: 3.9 grados en la escala de Richter en  Muisne,Esmeraldas a una profundidad de 7.44 Km. el dia 2017/06/07 17:30:54;0.613;-80.0875

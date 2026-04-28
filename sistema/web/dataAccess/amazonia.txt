@@ -1,0 +1,7 @@
+Sismo #0;El sismo fue de: 3.6 grados en la escala de Richter en  Shushufindi,Sucumbios a una profundidad de 40.05 Km. el dia 2017/08/28 06:16:38;0.053;-77.4162
+Sismo #1;El sismo fue de: 3.9 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 134.74 Km. el dia 2017/08/15 17:34:23;-2.5592;-76.9296
+Sismo #2;El sismo fue de: 3.5 grados en la escala de Richter en  Puyo,Pastaza a una profundidad de 16.23 Km. el dia 2017/08/14 13:48:27;-1.6285;-77.9499
+Sismo #3;El sismo fue de: 4.2 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 81.61 Km. el dia 2017/08/12 00:15:59;-2.1465;-77.3987
+Sismo #4;El sismo fue de: 4.1 grados en la escala de Richter en  Zamora,Zamora Ch a una profundidad de 1.68 Km. el dia 2017/07/15 22:27:49;-4.0763;-78.9538
+Sismo #5;El sismo fue de: 3.9 grados en la escala de Richter en  Sucua,Morona Stgo a una profundidad de 162.1 Km. el dia 2017/06/21 06:50:42;-3.4465;-77.0968
+Sismo #6;El sismo fue de: 3.5 grados en la escala de Richter en  Macas,Morona Stgo a una profundidad de 59.43 Km. el dia 2017/06/15 15:07:26;-1.9467;-77.7198

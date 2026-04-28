@@ -1,0 +1,17 @@
+Sismo #0;El sismo fue de: 3.6 grados en la escala de Richter en  Guaranda,Bolivar a una profundidad de 26.56 Km. el dia 2017/08/23 13:59:24;-1.3596;-78.9387
+Sismo #1;El sismo fue de: 4.2 grados en la escala de Richter en  Cuenca,Azuay a una profundidad de 8.03 Km. el dia 2017/08/14 22:15:04;-2.8744;-78.9384
+Sismo #2;El sismo fue de: 2.8 grados en la escala de Richter en  Pelileo,Tungurahua a una profundidad de 5.65 Km. el dia 2017/08/09 23:28:00;-1.292;-78.5765
+Sismo #3;El sismo fue de: 3.7 grados en la escala de Richter en  Sto Domingo,Sto Dom Tsachilas a una profundidad de 38.27 Km. el dia 2017/08/02 00:40:18;-0.1931;-78.8364
+Sismo #4;El sismo fue de: 3.7 grados en la escala de Richter en  Quito,Pichincha a una profundidad de 39.07 Km. el dia 2017/07/30 18:30:50;-0.1889;-78.819
+Sismo #5;El sismo fue de: 3.3 grados en la escala de Richter en  Salcedo,Cotopaxi a una profundidad de 12.06 Km. el dia 2017/07/24 04:44:54;-0.9608;-78.5191
+Sismo #6;El sismo fue de: 3.9 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 15.38 Km. el dia 2017/07/14 20:12:45;0.7268;-77.8697
+Sismo #7;El sismo fue de: 4.2 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 17.13 Km. el dia 2017/07/14 16:58:05;0.7462;-77.8568
+Sismo #8;El sismo fue de: 4.2 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 14.7 Km. el dia 2017/07/14 14:57:34;0.723;-77.8607
+Sismo #9;El sismo fue de: 3.8 grados en la escala de Richter en  Paute,Azuay a una profundidad de 25.04 Km. el dia 2017/07/12 00:45:57;-2.6892;-78.5689
+Sismo #10;El sismo fue de: 4 grados en la escala de Richter en  Macara,Loja a una profundidad de 102.86 Km. el dia 2017/07/11 03:04:10;-4.6716;-80.815
+Sismo #11;El sismo fue de: 3.6 grados en la escala de Richter en  Gualaceo,Azuay a una profundidad de 14.95 Km. el dia 2017/06/30 22:57:04;-2.9346;-78.6503
+Sismo #12;El sismo fue de: 4.6 grados en la escala de Richter en  Macara,Loja a una profundidad de 15.31 Km. el dia 2017/06/27 22:13:47;-4.2526;-79.9976
+Sismo #13;El sismo fue de: 3.6 grados en la escala de Richter en  San Gabriel,Carchi a una profundidad de 15.33 Km. el dia 2017/06/26 17:14:22;0.7273;-77.8663
+Sismo #14;El sismo fue de: 3.5 grados en la escala de Richter en  Tulcan,Carchi a una profundidad de 70.5 Km. el dia 2017/06/26 01:41:25;1.2724;-77.2777
+Sismo #15;El sismo fue de: 4.1 grados en la escala de Richter en  Macara,Loja a una profundidad de 70.07 Km. el dia 2017/06/09 02:49:12;-4.208;-80.545
+Sismo #16;El sismo fue de: 4.7 grados en la escala de Richter en  Macara,Loja a una profundidad de 71.15 Km. el dia 2017/06/08 04:27:39;-4.1442;-80.534

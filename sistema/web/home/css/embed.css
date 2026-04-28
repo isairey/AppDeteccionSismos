@@ -1,0 +1,11 @@
+* {margin:3px; margin-top:5px;}
+
+p {
+	color: #000;
+	}
+
+a {
+	color: #666;
+	}
+
+#windowborder { margin-top: 0px; margin-left:0px; margin-right:0px; margin-bottom:0px; border-width: 0px; border-style: solid; border-color: #ebebeb }
