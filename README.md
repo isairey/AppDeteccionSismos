@@ -68,11 +68,11 @@ sismos/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/sismos.git
+git clone https://github.com/isairey/AppDeteccionSismos.git
 ```
 Acceder al proyecto:
 ```
-cd sismos
+cd AppDeteccionSismos
 ```
 Ejecutar versión web:
 ```
